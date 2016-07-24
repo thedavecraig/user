@@ -1,2 +1,7 @@
 # user
-user settings &amp; files
+Hi!
+
+This includes my setting files, including:
+* vimrc
+* gvimrc
+* vimfiles
